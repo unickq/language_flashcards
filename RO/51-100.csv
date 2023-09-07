@@ -20,16 +20,16 @@
 20,douăzeci
 new,nou|nouă|nou|noi
 old,vechi|veche|vechi|vechi
-few,puțini/puține
-many,mulți/multe
+few,puțini|puține
+many,mulți|multe
 how much?,cât?
 how many?,câți?
-wrong,greșit|greșită|greșit|greșiți/greșite
-correct,corect|corectă|corect|corecți/corecte
-bad,rău|rea|rău|răi/rele
-good,bun|bună|bun|buni/bune
-happy,fericit|fericită|fericit|fericiți/fericite
-short,scurt|scurtă|scurt|scurți/scurte
+wrong,greșit|greșită|greșit|greșiți|greșite
+correct,corect|corectă|corect|corecți|corecte
+bad,rău|rea|rău|răi|rele
+good,bun|bună|bun|buni|bune
+happy,fericit|fericită|fericit|fericiți|fericite
+short,scurt|scurtă|scurt|scurți|scurte
 long,lung|lungă|lung|lungi
 small,mic|mică|mic|mici
 big,mare|mare|mare|mari
@@ -37,9 +37,9 @@ there,acolo
 here,aici
 right,dreapta
 left,stânga
-beautiful,frumos|frumoasă|frumos|frumoși/frumoase
-young,tânăr|tânără|tânăr|tineri/tinere
-old,bătrân|bătrână|bătrân|bătrâni/bătrâne
+beautiful,frumos|frumoasă|frumos|frumoși|frumoase
+young,tânăr|tânără|tânăr|tineri|tinere
+old,bătrân|bătrână|bătrân|bătrâni|bătrâne
 hello,bună
 see you later,ne vedem mai târziu
 ok,ok
